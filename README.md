@@ -2,7 +2,7 @@
 
 ¡Bienvenido a Dumxrg Bot! 🎉
 
-Dumxrg Bot es un poderoso bot hecho en JavaScript utilizando la librería de WhatsApp Web (`whatsapp-web.js`). Este bot te permite interactuar con WhatsApp de una manera divertida y eficiente. ¡Ideal para tus necesidades automatizadas de WhatsApp!
+Dumxrg Bot es un bot en fase beta hecho en JavaScript utilizando la librería de WhatsApp Web (`whatsapp-web.js`). Este bot te permite interactuar con WhatsApp de una manera divertida y eficiente. ¡Ideal para tus necesidades automatizadas de WhatsApp!
 
 ## Funcionalidades
 
