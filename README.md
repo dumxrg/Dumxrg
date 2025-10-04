@@ -1,9 +1,6 @@
 
-<h2>Hai 👋 im Dumxrg!, welcome to my github profile ! ≽^•⩊•^≼</h2>
-<div>
-<img style="width: 50%; height: 50%;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp14406126.png&f=1&nofb=1&ipt=f8ea9b62a5d8ab4600aa74d83547e06351c89428680f7637efa6c33a86a7ec87&ipo=images">
+<h2>Welcome to my github profile!</h2>
 
-</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dumxrg) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/dumxrg) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@dumxrg) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/dumxrg) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dumxrg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dumxrg@gmail.com) 
